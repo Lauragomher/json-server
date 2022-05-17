@@ -1,0 +1,17 @@
+{
+  "name": "json-server-deploy",
+  "version": "1.0.0",
+  "description": "json database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "icalldibs, json-server,heroku, node, REST API"
+  ],
+  "author": "icalldibs",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
