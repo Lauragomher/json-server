@@ -1,17 +1,16 @@
 {
-  "name": "json-server-deploy",
+  "name": "CustomJSONServer",
   "version": "1.0.0",
-  "description": "json database",
+  "description": "",
   "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "keywords": [
-    "icalldibs, json-server,heroku, node, REST API"
-  ],
-  "author": "icalldibs",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.16.3"
   }
 }
